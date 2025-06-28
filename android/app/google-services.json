@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "88639497897",
+    "project_id": "routeka-159a7",
+    "storage_bucket": "routeka-159a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88639497897:android:515de492243850cf236bb8",
+        "android_client_info": {
+          "package_name": "app.routeka.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88639497897-2evgcnqbnkriq9b9o4elu4cm3craoeef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEw9ayy6p4gBwPObjZSlsYvTD4oJF9mw"
+        },
+        {
+          "current_key": "AIzaSyAEvSGwmyGGdSD22TtQH6D2FOkqmfBGYiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88639497897-2evgcnqbnkriq9b9o4elu4cm3craoeef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88639497897:android:f07f4f37f60bac4d236bb8",
+        "android_client_info": {
+          "package_name": "appdriver.routeka.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88639497897-2evgcnqbnkriq9b9o4elu4cm3craoeef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEw9ayy6p4gBwPObjZSlsYvTD4oJF9mw"
+        },
+        {
+          "current_key": "AIzaSyAEvSGwmyGGdSD22TtQH6D2FOkqmfBGYiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88639497897-2evgcnqbnkriq9b9o4elu4cm3craoeef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
