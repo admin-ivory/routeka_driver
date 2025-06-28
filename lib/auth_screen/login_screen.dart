@@ -147,9 +147,9 @@ class _Login_ScreenState extends State<Login_Screen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const SizedBox(height: 20,),
-                    Text('Welcome aboard ProZigzagBus Driver!'.tr,style:  TextStyle(fontFamily: 'SofiaProBold',fontSize: 16,color: notifier.textColor)),
+                    Text('Welcome aboard Routeka Driver!'.tr,style:  TextStyle(fontFamily: 'SofiaProBold',fontSize: 16,color: notifier.textColor)),
                     const SizedBox(height: 6,),
-                    Text('Login to ProZigzagBus Driver'.tr,style:  TextStyle(fontWeight: FontWeight.bold,color: notifier.textColor)),
+                    Text('Login to Routeka Driver'.tr,style:  TextStyle(fontWeight: FontWeight.bold,color: notifier.textColor)),
                     const SizedBox(height: 20,),
 
                     CommonTextfiled2(controller: emailcontroller,txt: 'Enter Your Email'.tr,context: context),
@@ -228,8 +228,8 @@ class _Login_ScreenState extends State<Login_Screen> {
                   const Spacer(flex: 1),
                   Column(
                     children: [
-                      const Image(image: AssetImage('assets/logo.png'),height: 70,width: 70),
-                      Text('ProZigzagDriver'.tr,style: TextStyle(color: notifier.theamcolorelight,fontSize: 20,fontFamily: 'SofiaProBold'),),
+                      const Image(image: AssetImage('assets/logoRouteka.png'),height: 70,width: 70),
+                      Text('Driver'.tr,style: TextStyle(color: notifier.theamcolorelight,fontSize: 20,fontFamily: 'SofiaProBold'),),
                     ],
                   ),
 

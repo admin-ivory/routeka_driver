@@ -40,8 +40,8 @@ class _Splase_ScreenState extends State<Splase_Screen> {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image(image: AssetImage('assets/SplaseScreenImage.png'),height: 150,width: 150),
-            Text('ProZigzagDriver',style: TextStyle(color: Color(0xff7D2AFF),fontSize: 25,fontFamily: 'SofiaProBold'),),
+            Image(image: AssetImage('assets/SplashRouteka.png'),height: 150,width: 150),
+            Text('Routeka Driver',style: TextStyle(color: Color(0xff7D2AFF),fontSize: 25,fontFamily: 'SofiaProBold'),),
           ],
         ),
       ),
